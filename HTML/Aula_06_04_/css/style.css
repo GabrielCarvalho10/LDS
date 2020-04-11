@@ -1,0 +1,27 @@
+hi{
+    text-align: center;
+    color: red;
+}
+h2{
+    text-align: right;
+}
+.cadastrar-usuario{
+    font-size: 18px;
+}
+.paragrafo-do-artigo{
+    font-size: 18px;
+    color: green;
+
+}
+.centralizar-imagem{
+    display: block;
+    margin-left: auto;
+    margin-left: initial;
+}
+.borda-anuncio{
+    border: 10px solid blue;
+    
+}
+article header h2{
+    color: coral;
+}
