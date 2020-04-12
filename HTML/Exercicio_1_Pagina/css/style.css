@@ -1,5 +1,13 @@
 h1{
+    text-align: center;
     color: black;
-    font-style: unset;
-    background-color: #efe7e7;
+    font-family:  monospace;
+   
+}
+Tamanho-form{
+  position:relative;
+  left:37%;
+  top:10em;
+  width:320px;
+  height:270px;
 }
